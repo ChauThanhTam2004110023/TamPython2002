@@ -1,0 +1,44 @@
+[
+    {
+        "Un": "ahmed",
+        "Ps": 1135,
+        "Email": "aaa@gmail.com",
+        "has_res": false
+    },
+    {
+        "Un": "loaii",
+        "Ps": 1234,
+        "Email": "loaii@gmail.com",
+        "has_res": false
+    },
+    {
+        "Un": "nguyen van a",
+        "Ps": 123,
+        "Email": "nguyenvana@gmail.com",
+        "has_res": false
+    },
+    {
+        "Un": "nguyen b",
+        "Ps": 543,
+        "Email": "b@gmail.com",
+        "has_res": false
+    },
+    {
+        "Un": "nguyen van b",
+        "Ps": 2002,
+        "Email": "nguyenvanb@gmail.com",
+        "has_res": false
+    },
+    {
+        "Un": "tam chau",
+        "Ps": 123,
+        "Email": "tamchau@gmail.com",
+        "has_res": true
+    },
+    {
+        "Un": "nguyen van c",
+        "Ps": 678,
+        "Email": "c@gmail.com",
+        "has_res": false
+    }
+]

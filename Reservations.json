@@ -1,0 +1,31 @@
+[
+    {
+        "resid": 1
+    },
+    {
+        "resid": 2
+    },
+    {
+        "resid": 3
+    },
+    {
+        "resid": 4,
+        "Un": "nguyen van c",
+        "name": "nguyen van c",
+        "seats": [
+            10
+        ],
+        "time": "11 PM",
+        "hallno": 2
+    },
+    {
+        "resid": 5,
+        "Un": "tam chau",
+        "name": "tam chau",
+        "seats": [
+            9
+        ],
+        "time": "11 PM",
+        "hallno": 1
+    }
+]
