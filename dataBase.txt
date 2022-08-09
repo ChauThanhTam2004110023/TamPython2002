@@ -1,4 +1,0 @@
-Chau Thanh Tam;Female;k14;9
-Lam Vu Thanh Thai;Male;k14;9
-chau tam thanh;Male;k14;9
-nguyen van a;Male;k90;9
