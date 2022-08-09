@@ -1,6 +1,3 @@
-#from unicodedata import name
-
-
 class LoggedinAccountController:
 
     def __init__(self, accObj, movObj):
@@ -33,7 +30,7 @@ class LoggedinAccountController:
         self.accObj.resObj.setResInfo(seats, time, hallno)
         
         Un = self.accObj.get_username()
-        name = self.accObj.get_username()
+        name = self.movObj.get_name()
         resid = self.accObj.resObj.get_resid()
         self.accObj.resObj.reservations.update(resid=resid, Un=Un, name=name, seats=seats, time=time, hallno=hallno)
         self.accObj.resObj.reservations.write()

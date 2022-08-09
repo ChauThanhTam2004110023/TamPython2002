@@ -56,4 +56,4 @@ class Movie:
         return self.name
 
     def get_hallno(self):
-        return 
+        return self.hallno 
